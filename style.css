@@ -12,6 +12,11 @@ nav {
   text-align: center;
 }
 
+nav + a {
+  padding: 10x;
+  margin-left:
+}
+
 img {
   display: block;
   margin-left: auto;
