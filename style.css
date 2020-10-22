@@ -17,6 +17,9 @@ nav {
 
 nav > a {
   background-color: orange;
+  padding: 10x;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img {
