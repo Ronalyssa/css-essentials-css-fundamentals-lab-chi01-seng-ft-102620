@@ -24,13 +24,11 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
-  
 }
-
-
 
 figcaption {
   text-align: center;
+  font-size: 0.5em;
 }
 
 p, p {
