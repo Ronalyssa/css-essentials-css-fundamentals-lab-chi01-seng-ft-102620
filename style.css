@@ -19,6 +19,6 @@ img {
   width: 40%;
 }
 
-figcaption {
+figcaption + p {
   text-align: center;
 }
