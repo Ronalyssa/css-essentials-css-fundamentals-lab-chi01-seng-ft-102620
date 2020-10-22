@@ -13,11 +13,10 @@ nav {
   padding: 10x;
   margin-left: auto;
   margin-right: auto;
-  background-color: orange;
 }
 
 nav + a {
-
+  background-color: orange;
 }
 
 img {
