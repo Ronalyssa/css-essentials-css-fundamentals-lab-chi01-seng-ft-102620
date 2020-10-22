@@ -12,9 +12,13 @@ nav {
   text-align: center;
 }
 
-img, figcaption {
+img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+}
+
+figcaption {
+  text-align: center;
 }
