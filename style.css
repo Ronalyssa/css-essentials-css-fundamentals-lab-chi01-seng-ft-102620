@@ -12,6 +12,9 @@ nav {
   text-align: center;
 }
 
-#featured-property {
-  img: center;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
