@@ -31,7 +31,7 @@ figcaption {
   font-size: 0.75em;
 }
 
-#featured-property > {
+#featured-property > p {
   width: 800px
   text-align: center;
 }
